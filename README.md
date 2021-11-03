@@ -20,7 +20,7 @@ Add the project dependencies by running the above code in the folder of this sam
 <hr/>
 
 ```
-yarn start
+yarn install
 ```
 
 Runs the app in the development mode.\
