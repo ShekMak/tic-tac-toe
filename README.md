@@ -11,7 +11,7 @@ git clone https://github.com/ShekMak/tic-tac-toe
 Clone the app in your computer and get in the folder created for to test and upgrade features of this sample app.
 
 ```
-yarn add
+yarn install
 ```
 
 Add the project dependencies by running the above code in the folder of this sample application. This will allow you to run the project without problems.
@@ -20,7 +20,7 @@ Add the project dependencies by running the above code in the folder of this sam
 <hr/>
 
 ```
-yarn start
+yarn install
 ```
 
 Runs the app in the development mode.\
